@@ -1,2 +1,2 @@
 # ts-visualization
-a some project for time-series visualization
+a small project for time-series visualization
